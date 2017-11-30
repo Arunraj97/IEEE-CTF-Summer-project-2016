@@ -1,4 +1,4 @@
-# jellyfish-topology-helper
+# Jellyfish-Topology-Helper
 
 Implementation of Jellyfish Topology in ns-3
 
@@ -11,6 +11,7 @@ naturally to incremental expansion. In this project we develop a topology helper
 ### Running the code
 
 The helper file is at ``` src/point-to-point-layout/model/jellyfish_topology_helper.cc  ```
+
 The example file is at ``` scratch/jellyfish-animation.cc ```
 
 To run the code type the following in the terminal 
